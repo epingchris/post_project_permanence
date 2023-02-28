@@ -68,7 +68,10 @@ terra::writeVector(polyg_for, "paddd_selected_forest.shp", overwrite = T)
 paddd_for = subset(paddd_trop, PADDD_ID %in% polyg_for$PADDD_ID) #451
 write.table(paddd_for, "paddd_selected_forest.csv", sep = ",", row.names = F)
 
-#check area
+#check output
+table(paddd_veg$Region, paddd_veg$EventType)
+table(paddd_for$Region, paddd_for$EventType)
+
 polyg_veg_new = terra::vect("paddd_selected_vegetation.shp")
 plot(polyg_veg_new$SHAPE_Area / (10 ^ 6), type = "h")
 lines(polyg_veg_new$gis_area / (10 ^ 6), type = "h", col = "red")
