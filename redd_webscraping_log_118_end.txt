@@ -1,0 +1,809 @@
+Finished finding project docs
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Public%20comments.pdf
+Downloading project document: http://www.v-c-s.org/wp-content/uploads/2016/11/CCB_VERIF_STA_562_01JAN2013_31DEC2014.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/CCB_WWC_Kasigau_Phase_I_RPT_Verification_Final_v2-0_091515.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I%20M4%20MR%20Summary_Swahili%20v3.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I%20M4%20MR%20Summary_English%20v3.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I_VCS%20CCB%20M4%20Monitoring%20%26%20Implementation%20Report%20_v1.9%20%281%29.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I%20M4%20MR%20Summary_Swahili%20v2.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I%20M4%20MR%20Summary_English%20v2.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20I_VCS%20CCB%20M4%20Monitoring%20%26%20Implementation%20Report%20_v1.7.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/Second+Verification/103-Kasigau-CCBA+Verification_Report+Phase+1+final-v2.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/Second+Verification/103-CCB-Verification+Statement+phase+I-finalv2+(1).pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/Kasigau+Corridor+Phase+I_VCS+CCB+Monitoring+%26+Implementation+Report+v1.8.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/CCB_VerificationStatement_Phase_I.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/4_WWC+Kasigau+PhaseI+2ndVer_CCB_For+Client_11292012_FINAL.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/The_Kasigau_Corridor_REDD_PIR_Phase_I_2011_V2_1.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/CCB_WWC_Statement_of_Compliance_122209.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/CCB_WildlifeWorks_RPT_ValidationReport_Final_122009.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects%2FThe_Kasigau_Corridor_REDD_Project%2FComments_received_on_the_Kasigau_Corridor_REDD_Project.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/Rukinga_CCB_PDD_Ver_2_0.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/The+Kasigau+Corridor+Phase+I+REDD+Project+Monitoring+Plan+V2.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/ww_socio_economic_impact_assessment.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project/The_Kasigau_Corridor_REDD_PIR_Phase_I.pdf
+Reading row 119
+Finished finding shapefiles
+Finished finding project docs
+Reading row 120
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 121
+Finished finding shapefiles
+Finished finding project docs
+Reading row 122
+Finished finding shapefiles
+Finished finding project docs
+Reading row 123
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 124
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 125
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 126
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Forest_Again_Kakamega_Forest/Eco2librium+CCB+valid+assess+09.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Forest_Again_Kakamega_Forest/Eco2librium_CCB_valid_statement_10.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Forest_Again_Kakamega_Forest/Comments_received_on_Forest_Again_Kakamega_Forest.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Forest_Again_Kakamega_Forest/Forest_Again_PDD.pdf
+Reading row 127
+Finished finding shapefiles
+Finished finding project docs
+Reading row 128
+Finished finding shapefiles
+Finished finding project docs
+Reading row 129
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /static/images/MCDI_Annual_Report_2018_19.pdf
+URL not accessible
+Downloading project document: /static/images/MCDI_Intl_Internship_Opportunities_Nov_2017_USD.pdf
+URL not accessible
+Reading row 130
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 131
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Humbo_Ethiopia_Assisted_Natural_Regeneration_Project/Final+CCB+Validation+Report+of+Humbo+project+.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Humbo_Ethiopia_Assisted_Natural_Regeneration_Project/CCB+Validation+Statement+of+Humbo+project.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Humbo_Ethiopia_Assisted_Natural_Regeneration_Project/PDD+of+Humbo+project.pdf
+Reading row 132
+Finished finding shapefiles
+Finished finding project docs
+Reading row 133
+Finished finding shapefiles
+Finished finding project docs
+Reading row 134
+Finished finding shapefiles
+Finished finding project docs
+Reading row 135
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: admin/files/MINFOF_CITES.pdf
+URL not accessible
+Downloading project document: admin/files/com-24-11-2022.pdf
+URL not accessible
+Downloading project document: admin/files/concoursenef2022.pdf
+URL not accessible
+Downloading project document: admin/files/concoursenef2022.pdf
+URL not accessible
+Downloading project document: admin/files/pieces_gestionCarriere_solde.pdf
+URL not accessible
+Downloading project document: admin/files/pieces_gestionCarriere_solde.pdf
+URL not accessible
+Downloading project document: admin/files/LISTE-AVANCEMENT-ECHELON2023.pdf
+URL not accessible
+Downloading project document: admin/files/pieces_gestionCarriere_solde.pdf
+URL not accessible
+Reading row 136
+Finished finding shapefiles
+Finished finding project docs
+Reading row 137
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 138
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 139
+Finished finding shapefiles
+Finished finding project docs
+Reading row 140
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 141
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Abote_Community-Managed_Reforestation_Project/Abote_CCB_report+FINAL.PDF
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Abote_Community-Managed_Reforestation_Project/Abote_PDD_05-17-11.pdf
+Reading row 142
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sustainable_Agriculture_in_a_Changing_Climate/037-+ESI+CARE+CCBA+Report-Final.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sustainable_Agriculture_in_a_Changing_Climate/037-ESI+CARE+CCB+Valildation+Statement-final.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sustainable_Agriculture_in_a_Changing_Climate/SACC+CCB+PDD+final+draft+for+CARE++(13).pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sustainable_Agriculture_in_a_Changing_Climate/SACC+CCB+PDD+final+draft+for+CARE+.pdf
+Reading row 143
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Public%20comments.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/CCB_WWC_Kasigau_Phase_II_Certificate_Verification_v3-0_091515.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/CCB_WWC_Kasigau_Phase_II_RPT_Verification_Final_v2-0_091515.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20phase%20ll%20M4%20MR%20summary%20swahili%20v3.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20II%20M4%20MR%20Summary_English%20v3.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20II_VCS%20CCB%20M4%20Monitoring%20%26%20Implementation%20Report%20v1.11%20%281%29.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20II%20M4%20MR%20Summary_Swahili%20v2.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20II%20M4%20MR%20Summary_English%20v2.pdf
+Downloading project document: http://www.v-c-s.org/sites/v-c-s.org/files/Kasigau%20Corridor%20Phase%20II_VCS%20CCB%20M4%20Monitoring%20%26%20Implementation%20Report%20v1.9.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/Third+Verification/103-Kasigau-CCBA+Verification_Report+Phase+II+final-v2.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/Third+Verification/103-CCB-Verification+Statement+phase+II-finalv2+(1).pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/Kasigau+Corridor+Phase+II_VCS+CCB+Monitoring+%26+Implementation+Report+v1.15.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/CCB_VerificationStatement_Phase_II.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/4_WWC+Kasigau+PhaseII+2ndVer_CCB_For+Client_11292012_FINAL.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/The_Kasigau_Corridor_REDD_Project_PIR_Phase_II_m2_v2_1.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/CCB+Verification+Report_WWC_Kasigau+Corridor+Phase+II_25May2011.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/CCB+Verification+Statement_WWC_The+Kasigau+Corridor+REDD+Project-Phase+II_25May2011.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/CCB_Validation_Report_WWC_Kasigau_Corridor_Phase_II_17May2011.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/CCB_Validation_Statement_WWC_The_Kasigau_Corridor_REDD_Project-Phase_II_17May2011.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/The+Kasigau+Corridor+REDD+Project_PIR_Phase+II_FINAL_v4.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/Comments_received_on_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/The+Kasigau+Corridor+REDD+Project+Monitoring+Phase+II+FINAL+v3.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/The_Kasigau_Corridor_REDD_Project_Phase_II-The_Community_Ranches/Kasigau_Corridor_Phase_II_CCB_PDD_v9.pdf
+Reading row 144
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 145
+Finished finding shapefiles
+Finished finding project docs
+Reading row 146
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://www.tnrf.org/files/pubs/policy_brief.pdf
+URL not accessible
+Downloading project document: https://www.tnrf.org/files/pubs/policy_brief.pdf
+URL not accessible
+Downloading project document: http://www.tnrf.org/files/REDDNewsletter6.pdf
+Downloading project document: http://www.suanet.ac.tz/cciam/docs/CCIAM_newsleter_Vol_1_no1.pdf
+Downloading project document: http://www.tnrf.org/files/e-REDD%20Realities.pdf
+Downloading project document: http://www.tnrf.org/files/Climate%20Change%20Brief.pdf
+Downloading project document: http://www.forestpeoples.org/sites/fpp/files/publication/2011/11/lessons-field-briefing-english.pdf
+Downloading project document: http://www.rightsandresources.org/documents/files/doc_2765.pdf
+Reading row 147
+Finished finding shapefiles
+Finished finding project docs
+Reading row 148
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 149
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: http://www.lesdepechesdebrazzaville.fr/flex/php/simple_document.php?doc=20230405_DBZ_DBZ_ALL.pdf
+Downloading project document: http://www.lesdepechesdebrazzaville.fr/flex/php/simple_document.php?doc=20230405_LCK_LCK_ALL.pdf
+Downloading project document: http://www.lesdepechesdebrazzaville.fr/flex/php/simple_document.php?doc=20230401_DBZ_DBZ_ALL.pdf
+Reading row 150
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 151
+Finished finding shapefiles
+Finished finding project docs
+Reading row 152
+Finished finding shapefiles
+Finished finding project docs
+Reading row 153
+Finished finding shapefiles
+Finished finding project docs
+Reading row 154
+Finished finding shapefiles
+Finished finding project docs
+Reading row 155
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: http://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/pics/d120737.pdf
+Reading row 156
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: http://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/pics/d120737.pdf
+Reading row 157
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sofala_Community_Carbon_Project/Envirotrade_Sofala_CCB_valid_statement_10.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sofala_Community_Carbon_Project/Envirotrade_Sofala_CCB_valid_10.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Sofala_Community_Carbon_Project/2010-18-04-PDD-CCBA-Sofala-post+audit_FINAL.PDF
+Reading row 158
+Finished finding shapefiles
+Finished finding project docs
+Reading row 159
+Finished finding shapefiles
+Finished finding project docs
+Reading row 160
+Finished finding shapefiles
+Finished finding project docs
+Reading row 161
+Finished finding shapefiles
+Finished finding project docs
+Reading row 162
+Finished finding shapefiles
+Finished finding project docs
+Reading row 163
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 164
+Finished finding shapefiles
+Finished finding project docs
+Reading row 165
+Finished finding shapefiles
+Finished finding project docs
+Reading row 166
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 167
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Working+for+Woodlands+Thicket+Restoration+Project/Validation/CCP+Vol0684+AR06+VCS+VAL+ABFRP_Validation+Report+V3+Final.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Working+for+Woodlands+Thicket+Restoration+Project/Validation/CCP+VOL0684+CCBS+Certificate+ABFRP.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Working+for+Woodlands+Thicket+Restoration+Project/Validation/0_VCS_ABFRP_PD_C4ES_05Sept2011_FINAL_web+(1).pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Working+for+Woodlands+Thicket+Restoration+Project/VCS_WfWTRP_PD_C4ES_7Oct2010.pdf
+Reading row 168
+Finished finding shapefiles
+Finished finding project docs
+Reading row 169
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 170
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 171
+Finished finding shapefiles
+Finished finding project docs
+Reading row 172
+Finished finding shapefiles
+Finished finding project docs
+Reading row 173
+Finished finding shapefiles
+Finished finding project docs
+Reading row 174
+Finished finding shapefiles
+Finished finding project docs
+Reading row 175
+Finished finding shapefiles
+Finished finding project docs
+Reading row 176
+Finished finding shapefiles
+Finished finding project docs
+Reading row 177
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /media/policydocuments/Modern-Slavery-and-Human-Trafficking-Statement.pdf
+URL not accessible
+Reading row 178
+Finished finding shapefiles
+Finished finding project docs
+Reading row 179
+Finished finding shapefiles
+Finished finding project docs
+Reading row 180
+Finished finding shapefiles
+Finished finding project docs
+Reading row 181
+Finished finding shapefiles
+Finished finding project docs
+Reading row 182
+Finished finding shapefiles
+Finished finding project docs
+Reading row 183
+Finished finding shapefiles
+Finished finding project docs
+Reading row 184
+Finished finding shapefiles
+Finished finding project docs
+Reading row 185
+Finished finding shapefiles
+Finished finding project docs
+Reading row 186
+Finished finding shapefiles
+Finished finding project docs
+Reading row 187
+Finished finding shapefiles
+Finished finding project docs
+Reading row 188
+Finished finding shapefiles
+Finished finding project docs
+Reading row 189
+Finished finding shapefiles
+Finished finding project docs
+Reading row 190
+Finished finding shapefiles
+Finished finding project docs
+Reading row 191
+Finished finding shapefiles
+Finished finding project docs
+Reading row 192
+Finished finding shapefiles
+Finished finding project docs
+Reading row 193
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Reducing_Carbon_Emissions_from_Deforestation_in_the_Ulu_Masen_Ecosystem/Carbon_Conservation_FFI_Provincial_Govt_of_Nanggroe_Aceh_Darussalam_CCB_Validation_Audit_Final_Feb_08.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Reducing_Carbon_Emissions_from_Deforestation_in_the_Ulu_Masen_Ecosystem/Comments_received_on_Reducing_Carbon_Emissions_from_Deforestation_in_the_Ulu_Masen_Ecosystem.pdf
+Downloading project document: https://s3.amazonaws.com/CCBA/Projects/Reducing_Carbon_Emissions_from_Deforestation_in_the_Ulu_Masen_Ecosystem/Final_Ulu_Masen_CCBA_project_design_note_Dec29.pdf
+Reading row 194
+Finished finding shapefiles
+Finished finding project docs
+Reading row 195
+Finished finding shapefiles
+Finished finding project docs
+Reading row 196
+Finished finding shapefiles
+Finished finding project docs
+Reading row 197
+Finished finding shapefiles
+Finished finding project docs
+Reading row 198
+Finished finding shapefiles
+Finished finding project docs
+Reading row 199
+Finished finding shapefiles
+Finished finding project docs
+Reading row 200
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /sites/default/files/documents/5000/signed_unredd_prodoc_23112009.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/5000/signed_unredd_prodoc_23112009.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/un-redd_indonesia_final_report_2012.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/un-redd_indonesia_final_report_2012.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/unredd_pb9_2012_ii_annex_indonesia.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/unredd_pb9_2012_ii_annex_indonesia.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/indonesia.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/15000/indonesia.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/10000/indonesia_semi_annual_progress_report_2011.pdf
+URL not accessible
+Downloading project document: /sites/default/files/documents/10000/indonesia_semi_annual_progress_report_2011.pdf
+URL not accessible
+Reading row 201
+Finished finding shapefiles
+Finished finding project docs
+Reading row 202
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 203
+C:\Users\E-Ping Rau\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\bs4\builder\__init__.py:545: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+  warnings.warn(
+Finished finding shapefiles
+Finished finding project docs
+Reading row 204
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 205
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: //wwfint.awsassets.panda.org/downloads/final_web_eng_rpan_report_to_print_01_15_14.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/rd4_indo_rpan_report_to_print.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/final_rpan_report_french2_01_10_14_small.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/web_span_rpan_report_web_view.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/r3_rpan_report_execsummary.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/final_rpan_report_execsummary_bahasa.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/r3_rpan_report_execsummary_french.pdf
+URL not accessible
+Downloading project document: //wwfint.awsassets.panda.org/downloads/r3_rpan_report_execsummary_spanish_v2.pdf
+URL not accessible
+Reading row 206
+Finished finding shapefiles
+Finished finding project docs
+Reading row 207
+Finished finding shapefiles
+Finished finding project docs
+Reading row 208
+Finished finding shapefiles
+Finished finding project docs
+Reading row 209
+Finished finding shapefiles
+Finished finding project docs
+Reading row 210
+Finished finding shapefiles
+Finished finding project docs
+Reading row 211
+Finished finding shapefiles
+Finished finding project docs
+Reading row 212
+Finished finding shapefiles
+Finished finding project docs
+Reading row 213
+Finished finding shapefiles
+Finished finding project docs
+Reading row 214
+Finished finding shapefiles
+Finished finding project docs
+Reading row 215
+Finished finding shapefiles
+Finished finding project docs
+Reading row 216
+Finished finding shapefiles
+Finished finding project docs
+Reading row 217
+Finished finding shapefiles
+Finished finding project docs
+Reading row 218
+Finished finding shapefiles
+Finished finding project docs
+Reading row 219
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://cms.zsl.org/sites/default/files/2022-11/ZSL_GIZ_REDD_Sourcebook_2014.pdf
+Downloading project document: https://cms.zsl.org/sites/default/files/2022-11/ZSL_GIZ_REDD_Sourcebook_2014.pdf
+Downloading project document: https://cms.zsl.org/sites/default/files/2022-11/ZSL_GIZ_REDD_Sourcebook_2014.pdf
+Downloading project document: https://cms.zsl.org/sites/default/files/2022-11/Sourcebook_sp_Web.pdf
+Reading row 220
+Finished finding shapefiles
+Finished finding project docs
+Reading row 221
+Finished finding shapefiles
+Finished finding project docs
+Reading row 222
+Finished finding shapefiles
+Finished finding project docs
+Reading row 223
+Finished finding shapefiles
+Finished finding project docs
+Reading row 224
+Finished finding shapefiles
+Finished finding project docs
+Reading row 225
+Finished finding shapefiles
+Finished finding project docs
+Reading row 226
+Finished finding shapefiles
+Finished finding project docs
+Reading row 227
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /en/downloads/giz2022-en-annex-6a-esia.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-la-esia-esmp.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-en-annex-6b-esmp.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-la-esmp.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-en-annex-6d-ethnic-groups.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-la-ethnic-groups-development-plan-egdp.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-en-annex-8a-gender-assessment.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-la-gender-assessment.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-en-annex-8b-gender-action-plan.pdf
+URL not accessible
+Downloading project document: /en/downloads/giz2022-la-gender-action-plan.pdf
+URL not accessible
+Downloading project document: /en/downloads/Environmental%20and%20Social%20Impact%20Assessment%20(ESIA)_Eng%203.pdf
+URL not accessible
+Downloading project document: /en/downloads/Environmental%20and%20Social%20Impact%20Assessment%20(ESIA)_Lao%203.pdf
+URL not accessible
+Downloading project document: /en/downloads/Environmental%20and%20Social%20Management%20Plan%20(ESMP).pdf
+URL not accessible
+Downloading project document: /en/downloads/Environmental-and-Social-Management-Plan-ESMP-Lao.pdf.pdf
+URL not accessible
+Downloading project document: /en/downloads/Gender-action-plan_Eng.pdf
+URL not accessible
+Downloading project document: /en/downloads/Gender-action-plan_Lao.pdf
+URL not accessible
+Downloading project document: /en/downloads/Gender-assessment_Eng.pdf
+URL not accessible
+Downloading project document: /en/downloads/Gender-assessment_Lao.pdf
+URL not accessible
+Downloading project document: /en/downloads/2017-07-05-VFM-Implementation-Manual-final_Eng.pdf
+URL not accessible
+Downloading project document: /en/downloads/PG47_Page_04_13_KOCH.pdf
+URL not accessible
+Downloading project document: /en/downloads/2016-11-24FINAL-Drivers-and-PAMs.pdf
+URL not accessible
+Downloading project document: /en/downloads/CliPAD-Factsheet-1.pdf
+URL not accessible
+Downloading project document: /en/downloads/Village-Forest-Management-Planning-Guideline.pdf
+URL not accessible
+Downloading project document: /en/downloads/Houaphan-Drivers-of-Deforestation-Report.pdf
+URL not accessible
+Downloading project document: /en/downloads/LaoPDR-PLR-Gap-Analysis-Summary-Report.pdf
+URL not accessible
+Downloading project document: /en/downloads/APFW-Poster-Laos.pdf
+URL not accessible
+Downloading project document: /en/downloads/2015-WFC-paper-VilFoMA-CliPAD.pdf
+URL not accessible
+Downloading project document: /en/downloads/2015-LaoPDR_PLR-Gap-Analysis_FINAL.pdf
+URL not accessible
+Downloading project document: /en/downloads/First-steps-for-Making-Climate-Finance-Work-in-Lao-PDR-2013-1.pdf
+URL not accessible
+Downloading project document: /en/downloads/CliPAD-Mapping-Priority.pdf
+URL not accessible
+Reading row 228
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol27.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol26.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol25.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol24.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol23.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol22.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol21.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol20.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol18.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol17.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol16.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol15.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol14.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol13.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol12.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol11.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol10.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol09.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol08.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol07.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol06.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol05.pdf
+URL not accessible
+Downloading project document: /project/english/laos/006/bulletin/c8h0vm000049tjnt-att/bulletin_vol04.pdf
+URL not accessible
+Reading row 229
+Finished finding shapefiles
+Finished finding project docs
+Reading row 230
+Finished finding shapefiles
+Finished finding project docs
+Reading row 231
+Finished finding shapefiles
+Finished finding project docs
+Reading row 232
+Finished finding shapefiles
+Finished finding project docs
+Reading row 233
+Finished finding shapefiles
+Finished finding project docs
+Reading row 234
+Finished finding shapefiles
+Finished finding project docs
+Reading row 235
+Finished finding shapefiles
+Finished finding project docs
+Reading row 236
+Finished finding shapefiles
+Finished finding project docs
+Reading row 237
+Finished finding shapefiles
+Finished finding project docs
+Reading row 238
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 239
+Finished finding shapefiles
+Finished finding project docs
+Reading row 240
+Finished finding shapefiles
+Finished finding project docs
+Reading row 241
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 242
+Finished finding shapefiles
+Finished finding project docs
+Reading row 243
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 244
+Finished finding shapefiles
+Finished finding project docs
+Reading row 245
+Finished finding shapefiles
+Finished finding project docs
+Reading row 246
+Finished finding shapefiles
+Finished finding project docs
+Reading row 247
+Finished finding shapefiles
+Finished finding project docs
+Reading row 248
+Finished finding shapefiles
+Finished finding project docs
+Reading row 249
+Finished finding shapefiles
+Finished finding project docs
+Reading row 250
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 253
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /images/559d85c1771753e9de5cf64468e94e69.pdf
+URL not accessible
+Reading row 254
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 255
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 256
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 257
+Finished finding shapefiles
+Finished finding project docs
+Reading row 258
+Finished finding shapefiles
+Finished finding project docs
+Reading row 259
+Finished finding shapefiles
+Finished finding project docs
+Reading row 260
+Finished finding shapefiles
+Finished finding project docs
+Reading row 261
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 262
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 263
+Finished finding shapefiles
+Finished finding project docs
+Reading row 264
+Finished finding shapefiles
+Finished finding project docs
+Reading row 265
+Finished finding shapefiles
+Finished finding project docs
+Reading row 266
+Finished finding shapefiles
+Finished finding project docs
+Reading row 267
+Finished finding shapefiles
+Finished finding project docs
+Reading row 268
+Finished finding shapefiles
+Finished finding project docs
+Reading row 269
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://verra.org/wp-content/uploads/2018/03/Verra-Privacy-Policy.pdf
+Reading row 270
+Finished finding shapefiles
+Finished finding project docs
+Reading row 271
+Finished finding shapefiles
+Finished finding project docs
+Reading row 272
+Finished finding shapefiles
+Finished finding project docs
+Reading row 273
+Finished finding shapefiles
+Finished finding project docs
+Reading row 274
+Finished finding shapefiles
+Finished finding project docs
+Reading row 275
+Finished finding shapefiles
+Finished finding project docs
+Reading row 276
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: https://kpshk.org/wp-content/uploads/2018/07/Strategi-Percepatan-TORA-dan-PS.pdf
+Downloading project document: https://kpshk.org/wp-content/uploads/2018/04/Buku-KpSHK_HKm-Hidup-Matinya-Petani-Miskin.pdf
+Downloading project document: https://kpshk.org/wp-content/uploads//2016/12/Seri-Kajian-SHK-Seri-I-REDD-dan-Perebutan-Kawasan-Hutan.pdf
+Reading row 277
+Finished finding shapefiles
+Finished finding project docs
+Reading row 278
+Finished finding shapefiles
+Finished finding project docs
+Reading row 279
+Finished finding shapefiles
+Finished finding project docs
+Reading row 280
+Finished finding shapefiles
+Finished finding project docs
+Downloading project document: /Reference/Guidclarif/glos_CDM.pdf
+URL not accessible
+Reading row 281
+Finished finding shapefiles
+Finished finding project docs
+Reading row 282
+Finished finding shapefiles
+Finished finding project docs
+Reading row 283
+Finished finding shapefiles
+Finished finding project docs
+Reading row 284
+Finished finding shapefiles
+Finished finding project docs
+Reading row 285
+Finished finding shapefiles
+Finished finding project docs
+Reading row 286
+Finished finding shapefiles
+Finished finding project docs
+Reading row 287
+Finished finding shapefiles
+Finished finding project docs
+Reading row 288
+Finished finding shapefiles
+Finished finding project docs
+Reading row 289
+Finished finding shapefiles
+Finished finding project docs
