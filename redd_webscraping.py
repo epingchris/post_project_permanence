@@ -80,6 +80,6 @@ if __name__ == '__main__':
     csv_file = 'redd_end_with_urls.csv'
     url_column = 'url'
     destination_folder = 'redd_webscraping_out'
-    start_row = 217
+    start_row = 1
 
     process_csv(csv_file, url_column, start_row, destination_folder)

@@ -6,8 +6,11 @@ redd = read.table("./REDD_database/IDRECCO_Ver4_2_1_Project_20230308_corr.csv",
 #the apostrophes were creating problems, so I converted them in Excel to ___ before loading
 redd = as.data.frame(sapply(redd, function(x) gsub("___", "'", x)))
 
-#all projects with a status other than "Ongoing" are retained
-redd_end = subset(redd, Status %in% "Ongoing" == F)
+#all projects containing a REDD component, in humid forest, with a status "Abandoned", "Ended", "Terminated ahead of schedule"
+redd_end = subset(redd, Status %in% c("Abandoned", "Ended", "Terminated ahead of schedule") &
+                        grepl("humid", Type.of.forest, fixed = T) & 
+                        grepl("REDD", Project.Type, fixed = T))
+
 
 #function from https://stackoverflow.com/questions/52911812/check-if-url-exists-in-r
 checkURLValidity = function(url_in, t = 2) {
@@ -52,3 +55,4 @@ write.table(redd_end_with_urls, "./redd_end_with_urls.txt", quote = F, sep = "\t
 write.table(redd_end_with_urls, "./redd_end_with_urls.csv", quote = T, sep = ",")
 redd_end_with_urls = read.table("./redd_end_with_urls.csv", sep = ",", header = T)
 
+redd_end_with_urls[c(7, 9, 61), ]
