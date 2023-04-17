@@ -7,7 +7,7 @@ paddd_whole = cbind(paddd_whole[, 1:25], Marine = paddd_whole$Marine)
 polyg = terra::vect("./PADDD_Shapefiles/PADDDtracker_DataReleaseV2_1_2021_Poly.shp")
 polyg$PADDD_ID = stringr::str_replace_all(polyg$PADDD_ID, "\r\n", "")
 
-# find centroid of polygons
+# find the centroid of polygons
 centr = terra::centroids(polyg)
 centr_df = as.data.frame(terra::geom(centr))
 centr_df$PADDD_ID = centr$PADDD_ID
