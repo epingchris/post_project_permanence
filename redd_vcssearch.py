@@ -39,7 +39,7 @@ def download_shapefile(url, project_id, vcs_id, obj_num, type):
 # Read the project IDs from the CSV file
 with open(csv_file, 'r', encoding = 'utf-8', errors = 'ignore') as file:
     project_ids = csv.DictReader(file)
-    num_rows_to_skip = 12 # number of rows to skip
+    num_rows_to_skip = 0 # number of rows to skip
     
     # Skip desired number of rows
     for _ in range(num_rows_to_skip):
@@ -104,7 +104,6 @@ with open(csv_file, 'r', encoding = 'utf-8', errors = 'ignore') as file:
                         except requests.exceptions.ConnectionError as e:
                             print(f'Error connecting to URL')
                             code = response.status_code
-                            print(f'Status code is {code}')
                             pass
 
         # Check if VCS ID was found
@@ -148,8 +147,8 @@ with open(csv_file, 'r', encoding = 'utf-8', errors = 'ignore') as file:
                         print(f'SHP URI: {uri}')
                         download_shapefile(uri, project_id, vcs_id, obj_num, 'shp')
                         obj_num += 1
-                    else:
-                        print('No shapefile downloaded.')
+            if obj_num == 1:
+                print('No shapefile downloaded.')
 
         #break #testing on one project
 

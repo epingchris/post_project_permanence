@@ -10,4 +10,4 @@ redd = as.data.frame(sapply(redd, function(x) gsub("___", "'", x)))
 redd_end = subset(redd, Status %in% c("Abandoned", "Ended", "Terminated ahead of schedule") &
                         grepl("humid", Type.of.forest, fixed = T) & 
                         grepl("REDD", Project.Type, fixed = T))
-write.table(redd_end, "./redd_end.csv", quote = T, sep = ",")
+write.table(redd_end, "./redd_end.csv", quote = T, sep = ",", row.names = F)
